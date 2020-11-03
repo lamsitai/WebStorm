@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8195aa50-2863-4013-82b1-b6b6cbfe677e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Task1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Task1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/Dont+they+know+dab+means+destroy+all+blacks+_b651a237019cbeb93faf6fc2b63d9ace.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +58,8 @@
       <option name="presentableId" value="Default" />
       <updated>1603973973286</updated>
       <workItem from="1603973974394" duration="5108000" />
+      <workItem from="1604401679423" duration="7000" />
+      <workItem from="1604401733771" duration="19000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1603974402688</created>
