@@ -3,21 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8195aa50-2863-4013-82b1-b6b6cbfe677e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 1/Assignment1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 1/Assignment1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 2/Assignment2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 2/Assignment2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 3/LabS3.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 3/LabS3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 3/image/770117_people_512x512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 4/LabS4.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 4/LabS4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 4/image/Pant 1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 4/image/Pant2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 4/image/Pant3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 4/image/Shirt1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 4/image/Shirt2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 4/image/Shirt3.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 4/image/Shirt4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 4/image/Shirt5.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +67,8 @@
       <workItem from="1604764393441" duration="240000" />
       <workItem from="1604764765697" duration="129000" />
       <workItem from="1604764904331" duration="236000" />
-      <workItem from="1604765347942" duration="2733000" />
+      <workItem from="1604765347942" duration="3020000" />
+      <workItem from="1604854428278" duration="266000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1603974402688</created>
@@ -161,7 +147,21 @@
       <option name="project" value="LOCAL" />
       <updated>1604765001105</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Third Commit">
+      <created>1604768304280</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1604768304280</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Third Commit">
+      <created>1604768345789</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1604768345789</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,16 +178,16 @@
       <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="451" y="236" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.808@0.23.1440.808" timestamp="1603974182937" />
-    <state x="285" y="23" key="CommitChangelistDialog2" timestamp="1604765000896">
-      <screen x="0" y="23" width="1440" height="806" />
+    <state x="285" y="23" key="CommitChangelistDialog2" timestamp="1604768345605">
+      <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="285" y="23" key="CommitChangelistDialog2/0.23.1440.806@0.23.1440.806" timestamp="1604765000896" />
-    <state x="285" y="23" key="CommitChangelistDialog2/0.23.1440.808@0.23.1440.808" timestamp="1603979913383" />
-    <state x="320" y="167" key="Vcs.Push.Dialog.v2" timestamp="1604765005569">
-      <screen x="0" y="23" width="1440" height="806" />
+    <state x="285" y="23" key="CommitChangelistDialog2/0.23.1440.808@0.23.1440.808" timestamp="1604768345605" />
+    <state x="320" y="167" key="Vcs.Push.Dialog.v2" timestamp="1604768352421">
+      <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="320" y="167" key="Vcs.Push.Dialog.v2/0.23.1440.806@0.23.1440.806" timestamp="1604765005569" />
-    <state x="320" y="167" key="Vcs.Push.Dialog.v2/0.23.1440.808@0.23.1440.808" timestamp="1603979930959" />
+    <state x="320" y="167" key="Vcs.Push.Dialog.v2/0.23.1440.808@0.23.1440.808" timestamp="1604768352421" />
     <state x="518" y="347" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604764841261">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
