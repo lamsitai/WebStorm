@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8195aa50-2863-4013-82b1-b6b6cbfe677e" name="Default Changelist" comment="" />
+    <list default="true" id="8195aa50-2863-4013-82b1-b6b6cbfe677e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 1/Assignment1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 1/Assignment1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 2/Assignment2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 2/Assignment2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab S2/LabS2.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lab S2/LabS2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab S2/LabS2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab S2/LabS2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab S3/LabS3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab S3/LabS3.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +40,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lab S2/Image" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -45,6 +52,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lab S2/Image" />
       <recent name="$PROJECT_DIR$/image" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -67,7 +75,10 @@
       <workItem from="1604764904331" duration="236000" />
       <workItem from="1604765347942" duration="3020000" />
       <workItem from="1604854428278" duration="266000" />
-      <workItem from="1604854817550" duration="323000" />
+      <workItem from="1604854817550" duration="382000" />
+      <workItem from="1604930565768" duration="704000" />
+      <workItem from="1604933575208" duration="2397000" />
+      <workItem from="1604940119809" duration="2335000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1603974402688</created>
@@ -174,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604855070587</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Third Commit">
+      <created>1604855169774</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1604855169774</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,16 +209,16 @@
       <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="451" y="236" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.808@0.23.1440.808" timestamp="1603974182937" />
-    <state x="285" y="23" key="CommitChangelistDialog2" timestamp="1604768345605">
+    <state x="285" y="23" key="CommitChangelistDialog2" timestamp="1604855169563">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="285" y="23" key="CommitChangelistDialog2/0.23.1440.806@0.23.1440.806" timestamp="1604765000896" />
-    <state x="285" y="23" key="CommitChangelistDialog2/0.23.1440.808@0.23.1440.808" timestamp="1604768345605" />
-    <state x="320" y="167" key="Vcs.Push.Dialog.v2" timestamp="1604768352421">
+    <state x="285" y="23" key="CommitChangelistDialog2/0.23.1440.808@0.23.1440.808" timestamp="1604855169563" />
+    <state x="320" y="167" key="Vcs.Push.Dialog.v2" timestamp="1604855172612">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="320" y="167" key="Vcs.Push.Dialog.v2/0.23.1440.806@0.23.1440.806" timestamp="1604765005569" />
-    <state x="320" y="167" key="Vcs.Push.Dialog.v2/0.23.1440.808@0.23.1440.808" timestamp="1604768352421" />
+    <state x="320" y="167" key="Vcs.Push.Dialog.v2/0.23.1440.808@0.23.1440.808" timestamp="1604855172612" />
     <state x="518" y="347" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604764841261">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
