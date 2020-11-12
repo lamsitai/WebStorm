@@ -1,0 +1,62 @@
+body{
+    font-family: 'Mukta', sans-serif;
+    background-color: whitesmoke;
+    margin: 0 500px;
+}
+#heading{
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#body{
+    padding: 10px;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    border-radius: 25px;
+}
+#letter{
+    text-align: center;
+}
+input{
+    border-radius: 10px;
+    border-style: solid;
+    border-color: lightgray;
+    font-size: 25px;
+}
+button{
+    padding: 15px 100px;
+    margin: 10px 0 20px 40px;
+    font-size: 20px;
+    border-style: solid;
+    border-radius: 25px;
+    background-color: royalblue;
+    color: whitesmoke;
+    cursor: pointer;
+}
+.name{
+    width: 150px;
+    margin: 0 -20px 10px 20px;
+    padding: 15px 13px 15px 20px;
+}
+.email{
+    margin: 0 -20px 10px 20px;
+    padding: 15px 45px 15px 20px;
+}
+.company{
+    margin: 0 -20px 10px 20px;
+    padding: 15px 45px 15px 20px;
+}
+.info{
+    margin: 0 0 0 40px;
+    line-height: 40px;
+    font-size: 20px;
+}
+#end{
+    text-align: center;
+}
+#special{
+    color: royalblue;
+}
