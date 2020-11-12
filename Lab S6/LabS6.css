@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Mukta', sans-serif;
+    font-size: 14px;
+    background-color: black;
+}
+.all{
+    margin: 20px;
+}
+img{
+    max-width: 100%;
+}
+.section{
+    float: left;
+    width: 100%;
+    padding: 40px;
+    background-color: whitesmoke;
+}
+.container{
+    width: 1300px;
+    margin: 0 auto;
+    float: none;
+}
+.header{
+    background-color: white;
+    border-bottom: 1px solid whitesmoke;
+    padding: 30px 0;
+}
+.header .logo{
+    float: left;
+}
+.main{
+    margin-top: -30px;
+}
+.top-links{
+    float: right;
+}
+.logo a{
+    font-size: 25px;
+    line-height: 1px;
+    text-decoration: none;
+    color: black;
+}
+.top-links li{
+    list-style: none;
+    float: left;
+    margin: 0 30px;
+}
+.top-links li a{
+    line-height: 25px;
+    font-size: 15px;
+    text-decoration: none;
+    color: black;
+}
+.nav{
+    background-color: white;
+    padding: 20px 0;
+    margin-bottom: 30px;
+}
+.menu li{
+    float: left;
+    list-style: none;
+    margin-right: 30px;
+}
+.menu li.last{
+    float: right;
+    margin-right: 20px;
+}
+.menu a{
+    text-decoration: none;
+    color: black;
+}
+.content{
+    float: left;
+    width: 66.67%;
+    padding-right: 15px;
+}
+.sidebar{
+    float: left;
+    width: 33.33%;
+    padding-left: 15px;
+}
+.post{
+    float: left;
+    width: 100%;
+    background-color: white;
+    padding: 30px 50px;
+    font-size: 15px;
+}
+.post h1{
+    font-size: 30px;
+}
+.post u{
+    color: red;
+    cursor: pointer;
+}
+.post img{
+    margin: 20px 0;
+    width: 100%;
+}
+.block{
+    float: left;
+    width: 100%;
+    background-color: white;
+    padding: 30px;
+    margin-bottom: 30px;
+}
+.first{
+    background-color: black;
+    color: white;
+}
+.first input{
+    padding: 15px 150px 15px 20px;
+    margin: 10px 0;
+    font-size: 15px;
+}
+.first button{
+    padding: 15px 145px;
+    margin: 10px 0;
+    background-color: red;
+    border-style: none;
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+}
+.second img{
+    float: left;
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+}
+.third input{
+    padding: 15px 150px 15px 20px;
+    margin: 10px 0;
+    font-size: 15px;
+}

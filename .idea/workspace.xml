@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8195aa50-2863-4013-82b1-b6b6cbfe677e" name="Default Changelist" comment="" />
+    <list default="true" id="8195aa50-2863-4013-82b1-b6b6cbfe677e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 1/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 1/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +36,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lab S2/Image" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -72,6 +75,8 @@
       <workItem from="1604930565768" duration="704000" />
       <workItem from="1604933575208" duration="2397000" />
       <workItem from="1604940119809" duration="2707000" />
+      <workItem from="1605170113393" duration="88000" />
+      <workItem from="1605200076037" duration="404000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1603974402688</created>
@@ -206,7 +211,21 @@
       <option name="project" value="LOCAL" />
       <updated>1604942780821</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Third Commit">
+      <created>1605170153500</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1605170153500</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Fourth Commit">
+      <created>1605170176747</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1605170176747</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,26 +235,27 @@
     <MESSAGE value="First Commit" />
     <MESSAGE value="Second Commit" />
     <MESSAGE value="Third Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Third Commit" />
+    <MESSAGE value="Fourth Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fourth Commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="451" y="236" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603974182937">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="451" y="236" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.808@0.23.1440.808" timestamp="1603974182937" />
-    <state x="285" y="23" key="CommitChangelistDialog2" timestamp="1604942780591">
+    <state x="285" y="23" key="CommitChangelistDialog2" timestamp="1605170176517">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state x="285" y="23" key="CommitChangelistDialog2/0.23.1440.806@0.23.1440.806" timestamp="1604942780591" />
+    <state x="285" y="23" key="CommitChangelistDialog2/0.23.1440.806@0.23.1440.806" timestamp="1605170176517" />
     <state x="285" y="23" key="CommitChangelistDialog2/0.23.1440.808@0.23.1440.808" timestamp="1604855169563" />
     <state x="142" y="93" key="DiffContextDialog" timestamp="1604942650563">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state x="142" y="93" key="DiffContextDialog/0.23.1440.806@0.23.1440.806" timestamp="1604942650563" />
-    <state x="320" y="167" key="Vcs.Push.Dialog.v2" timestamp="1604942797556">
+    <state x="320" y="167" key="Vcs.Push.Dialog.v2" timestamp="1605170187559">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state x="320" y="167" key="Vcs.Push.Dialog.v2/0.23.1440.806@0.23.1440.806" timestamp="1604942797556" />
+    <state x="320" y="167" key="Vcs.Push.Dialog.v2/0.23.1440.806@0.23.1440.806" timestamp="1605170187559" />
     <state x="320" y="167" key="Vcs.Push.Dialog.v2/0.23.1440.808@0.23.1440.808" timestamp="1604855172612" />
     <state x="518" y="347" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604764841261">
       <screen x="0" y="23" width="1440" height="806" />
