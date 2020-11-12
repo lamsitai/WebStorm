@@ -1,1 +1,1 @@
-<?php include("Assignment2.html"); ?>
+<?php include_once("Assignment2.html"); ?>

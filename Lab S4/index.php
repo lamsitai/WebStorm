@@ -1,1 +1,1 @@
-<?php include("LabS4.html"); ?>
+<?php include_once("LabS4.html"); ?>
