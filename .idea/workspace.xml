@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8195aa50-2863-4013-82b1-b6b6cbfe677e" name="Default Changelist" comment="" />
+    <list default="true" id="8195aa50-2863-4013-82b1-b6b6cbfe677e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab S6/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -33,7 +36,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lab S6" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -44,10 +47,15 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Lab S2/Image" />
-      <recent name="$PROJECT_DIR$/image" />
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lab S6" />
+      <recent name="$PROJECT_DIR$/Lab S5" />
+      <recent name="$PROJECT_DIR$/Lab S4" />
+      <recent name="$PROJECT_DIR$/Lab S3" />
+      <recent name="$PROJECT_DIR$/Lab S2" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -74,7 +82,9 @@
       <workItem from="1604940119809" duration="2707000" />
       <workItem from="1605170113393" duration="88000" />
       <workItem from="1605200076037" duration="739000" />
-      <workItem from="1605201293002" duration="301000" />
+      <workItem from="1605201293002" duration="767000" />
+      <workItem from="1605255507054" duration="35000" />
+      <workItem from="1605351541167" duration="151000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1603974402688</created>
@@ -237,7 +247,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605201539531</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Fifth Commit">
+      <created>1605201685364</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1605201685364</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Fifth Commit">
+      <created>1605201874141</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1605201874141</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,20 +280,20 @@
       <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="451" y="236" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.808@0.23.1440.808" timestamp="1603974182937" />
-    <state x="285" y="23" key="CommitChangelistDialog2" timestamp="1605201685155">
+    <state x="285" y="23" key="CommitChangelistDialog2" timestamp="1605201873870">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="285" y="23" key="CommitChangelistDialog2/0.23.1440.806@0.23.1440.806" timestamp="1605200531643" />
-    <state x="285" y="23" key="CommitChangelistDialog2/0.23.1440.808@0.23.1440.808" timestamp="1605201685155" />
+    <state x="285" y="23" key="CommitChangelistDialog2/0.23.1440.808@0.23.1440.808" timestamp="1605201873870" />
     <state x="142" y="93" key="DiffContextDialog" timestamp="1604942650563">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state x="142" y="93" key="DiffContextDialog/0.23.1440.806@0.23.1440.806" timestamp="1604942650563" />
-    <state x="320" y="167" key="Vcs.Push.Dialog.v2" timestamp="1605201689847">
+    <state x="320" y="167" key="Vcs.Push.Dialog.v2" timestamp="1605201880055">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="320" y="167" key="Vcs.Push.Dialog.v2/0.23.1440.806@0.23.1440.806" timestamp="1605200542494" />
-    <state x="320" y="167" key="Vcs.Push.Dialog.v2/0.23.1440.808@0.23.1440.808" timestamp="1605201689847" />
+    <state x="320" y="167" key="Vcs.Push.Dialog.v2/0.23.1440.808@0.23.1440.808" timestamp="1605201880055" />
     <state x="518" y="347" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604764841261">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
