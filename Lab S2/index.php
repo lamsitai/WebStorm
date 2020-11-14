@@ -1,1 +1,0 @@
-<?php include_once("LabS2.html"); ?>
